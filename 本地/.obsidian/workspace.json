@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "c3caab8b5d861e18",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b4edf5db58c5194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1c9561d17af58b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/方剂/桂枝汤体系/桂枝汤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "桂枝汤"
+            },
+            "group": "38153a43aba800fe"
+          },
+          {
+            "id": "a052dfc6da1e11df",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MD核心语法.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "MD核心语法"
+            }
+          },
+          {
+            "id": "b39f0ab7fea6470e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "本地/其他/Obsidian+Quartz 4/Obsidian+Quartz 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian+Quartz 4"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "288c27b746a90acf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0c73deed4d8c04d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/方剂/桂枝汤体系/桂枝汤.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.2,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792585,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "桂枝汤 的关系图"
+            },
+            "group": "38153a43aba800fe"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0da713d102cb9ea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "061d47c8ef0b7226",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86a6fa7814f88f88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "63b5a89e88127f15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#四、第三阶段：药势学",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ebabb55fb3a6ff00",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376.5
+  },
+  "right": {
+    "id": "780f991c239aef3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "91d9145943210547",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43ef3e1da6ed3f2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/伤寒论/条辩-13-太阳病-桂枝汤.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "条辩-13-太阳病-桂枝汤 的反向链接列表"
+            }
+          },
+          {
+            "id": "b83f47246fa0f96d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/伤寒论/条辩-13-太阳病-桂枝汤.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "条辩-13-太阳病-桂枝汤 的出链列表"
+            }
+          },
+          {
+            "id": "1023162f9aaf8272",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5775e6a56ad3da4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7dd431e9492b4217",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/伤寒论/条辩-13-太阳病-桂枝汤.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "条辩-13-太阳病-桂枝汤 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "b39f0ab7fea6470e",
+  "lastOpenFiles": [
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/方剂/桂枝汤体系/桂枝汤.md",
+    "本地/其他/Obsidian+Quartz 4/Obsidian+Quartz 4.md",
+    "本地/其他/Obsidian+Quartz 4",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/方剂/桂枝汤体系/桂枝加厚朴杏仁汤.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/水液、三焦、痰饮核心.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/素问/水热穴论.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/灵枢/五癃津液别.md",
+    "MD核心语法.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/素问/厥论.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/灵枢/决气.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/灵枢/本输.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/太阳证.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/太阳证模板.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/少阴证.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/厥阴证.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/少阳证.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/太阴证.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/伤寒论/条辩-273-太阴病.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/阳明证.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/伤寒论/条辩-240-阳明病-桂枝汤.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/素问/阴阳应象大论.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/素问/太阴阳明论.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/素问/六节藏象论.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/素问/刺禁论.md",
+    "少阳中风.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/素问/阴阳离合论.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/素问/逆调论.md",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/本经/images/大黄.png",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/本经/images/半夏.png",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/本经/images",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/本经/新建文件夹",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/金匮要略",
+    "Recording 20260523132748.m4a",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/灵枢",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/经典/素问",
+    "本地/其他/未命名.canvas",
+    "本地/其他/images/学习时间图.png",
+    "本地/其他/images/未确认 208711.crdownload",
+    "本地/其他/images",
+    "本地/其他/新建文件夹",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/images/少阴1.png",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/images/阳明.png",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/images/太阴.png",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/images/少阴2.png",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/images/少阳.png",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/images/太阳.png",
+    "本地/「能长期用 10 年」的 Obsidian 结构/目录结构/02-中医/六经辨证/images/厥阴.png",
+    "未命名.canvas"
+  ]
+}
